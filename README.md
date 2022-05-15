@@ -1,3 +1,4 @@
 # Landing_page
 Landing page feita com HTML, CSS e JavaScript
-![image](https://user-images.githubusercontent.com/72636308/168491823-219c808a-5b7c-4aee-9af1-44c3009e97c3.png)
+![image](https://user-images.githubusercontent.com/72636308/168494365-6baea3da-6cf9-4bd1-ae3e-4c10e32ba1de.png)
+
